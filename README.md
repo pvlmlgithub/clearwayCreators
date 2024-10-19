@@ -1,5 +1,7 @@
 # clearwayCreators
 Traffic Management and Congestion Prediction System based on AI Power
+
+Key Features
 Traffic Congestion Prediction: It uses random forest and FB prophet to predict traffic congestion with historical & real time data.
 Alternative Route Suggestions: Scoring multiple possible routes using travel time, vehicle count, traffic signals, and recommends the best route.
 Real-Time Data Integration: Pulls real time data from various sources through APIs: weather data, traffic sensors, cameras.
